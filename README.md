@@ -61,7 +61,7 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 <pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
 ### Installation Link
 
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/EZ-Code00/SCFALLBACK/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/SASUKE00/SCFALLBACK/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 
 <b>
@@ -109,18 +109,18 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 
 ## Telegram
 
-[EZ-Code](https://t.me/EzcodeShop)
+[SASUKE](https://t.me/SASUKE)
 
-[Group EZ-Code](COMING SOON)
+[Group SASUKE](COMING SOON)
 
-[Channel EZ-Code](https://t.me/ezcode24)
+[Channel SASUKE](https://t.me/SASUKE)
 
 ## Credit :
 
 *   Project X
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-EzCode%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-SASUKE%20AutoScriptVPN%202025.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
 
 ```
