@@ -50,13 +50,20 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 
 ### For Debian 10 / 11 / 12 For First Time Installation (Update Repo)
 
-<pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
+  ```html
+  apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+
+  ```
+  
 ### For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo)
   
 <pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
 ### Installation Link
 
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/fuso123/sasuke/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+  ```html
+  apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/fuso123/sasuke/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+
+  ```
 
 
 <b>
