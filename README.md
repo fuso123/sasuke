@@ -57,7 +57,11 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
   
 ### For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo)
   
-<pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
+  ```html
+  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
+
+  ```
+  
 ### Installation Link
 
   ```html
